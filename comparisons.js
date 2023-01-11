@@ -33,8 +33,11 @@ console.log ("Is numberTeachers strictly equal to stringTeachers?", numberTeache
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
 
+console.log ("Is numberTeachers not equal to numberStudents?", numberTeachers !== numberStudents);
+
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 20?
 // this should log: true
+
 
 // YOU DO: log the result of the comparison: is numberStudents greater than or equal to 21?
 // this should log: false
