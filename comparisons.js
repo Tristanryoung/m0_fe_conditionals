@@ -80,7 +80,7 @@ console.log(friends > siblings);
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// This code defines variables attendees equals 9 and meals equals 8, it then evaluates whether attendees (9) does not equal meals (8)- this comparison will evaluate to true
+// This code defines variables attendees equals 9 and meals equals 8, it then evaluates whether attendees (9) is not strictly equal to meals (8)- this comparison will evaluate to true
 
 
 // #-------------------
