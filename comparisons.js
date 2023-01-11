@@ -117,6 +117,7 @@ console.log("Does the dog love to play or love the dog park?", lovesToPlay || lo
 
 
 // Determine if the dog loves to play and is a puppy
+console.log ("Does the dog love to play and is a puppy?", lovesToPlay && age);
 
 // What did your final line of code evaluate to? Why do you think that is? Explain.
-// ANSWER:
+// ANSWER: When running lovesToPlay && isapuppy, the code evaluates to isapuppy is not defined, when running lovesToPlay && age, the code evaluates to 1. I think this is because age is not boolean like the other variables, whereas an isAPuppy variable would be true or false and be evaluated as such.
