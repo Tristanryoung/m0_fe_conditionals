@@ -75,12 +75,12 @@ console.log(4 < books);
 var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
-// This code defines variables friends equals 6 and siblings equals 2, it then evaluates whether friends (6) is greather than siblings (2)-this comparison will evaluate to ture
+// This code defines variables friends equals 6 and siblings equals 2, it then evaluates whether friends (6) is greather than siblings (2)-this comparison will evaluate to true
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
-// YOU DO: Explain.
+// This code defines variables attendees equals 9 and meals equals 8, it then evaluates whether attendees (9) does not equal meals (8)- this comparison will evaluate to true
 
 
 // #-------------------
