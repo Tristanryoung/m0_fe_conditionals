@@ -112,6 +112,8 @@ console.log ("Does the dog love to play and love the dog park?", lovesToPlay && 
 
 
 // Determine if the dog loves to play or loves the dog park
+console.log("Does the dog love to play or love the dog park?", lovesToPlay || lovesDogPark);
+// this evaluates to true
 
 
 // Determine if the dog loves to play and is a puppy
