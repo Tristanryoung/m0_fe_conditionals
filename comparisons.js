@@ -104,10 +104,11 @@ var age = 1;
 // YOU DO:
 // Determine if the dog loves to play and loves treats
 console.log ("Does the dog love to play and love treats?", lovesToPlay && lovesTreats);
-
-
+//this evaluates to true
 
 // Determine if the dog loves to play and loves the dog park
+console.log ("Does the dog love to play and love the dog park?", lovesToPlay && lovesDogPark);
+// this evaluates to false
 
 
 // Determine if the dog loves to play or loves the dog park
