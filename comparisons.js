@@ -66,7 +66,7 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <=21);
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-// YOU DO: Explain.
+// This comparison is evaluating whether 4 is less than 9-- it will evaluate to false
 
 var books = 3;
 console.log(4 < books);
