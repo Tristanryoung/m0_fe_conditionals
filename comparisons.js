@@ -66,11 +66,11 @@ console.log("Is numberStudents less than or equal to 21?", numberStudents <=21);
 // Make sure YOU can explain it that way!
 
 console.log(4 < 9);
-// This comparison is evaluating whether 4 is less than 9-- it will evaluate to false
+// This comparison is evaluating whether 4 is less than 9-- this comparison will evaluate to true
 
 var books = 3;
 console.log(4 < books);
-// YOU DO: Explain.
+// This code defines the variable books to equal 3, it then evaluates whether 4 is less than books, which we know equals 3-- this comparison will evaluate to false
 
 var friends = 6;
 var siblings = 2;
