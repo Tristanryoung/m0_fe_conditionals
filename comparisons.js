@@ -11,7 +11,7 @@
 // PART 1: Comparing variables
 // -------------------
 
-var numberTeachers = 4
+var numberTeachers = 44
 var numberStudents = 20
 var stringTeachers = "4"
 var numberDogs = 0
