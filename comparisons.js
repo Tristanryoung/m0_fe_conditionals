@@ -28,6 +28,8 @@ console.log("Is numberTeachers less than numberStudents?", numberTeachers < numb
 // YOU DO: log the result of the comparison: is numberTeachers strictly equal to stringTeachers?
 // this should log: false
 
+console.log ("Is numberTeachers strictly equal to stringTeachers?", numberTeachers === stringTeachers);
+
 // YOU DO: log the result of the comparison: is numberTeachers not equal to numberStudents?
 // this should log: true
 
